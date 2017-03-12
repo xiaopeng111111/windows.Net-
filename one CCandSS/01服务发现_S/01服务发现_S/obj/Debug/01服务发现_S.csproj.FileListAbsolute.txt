@@ -1,0 +1,9 @@
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\bin\Debug\01服务发现_S.exe.config
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\obj\Debug\_01服务发现_S.Form1.resources
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\obj\Debug\_01服务发现_S.Properties.Resources.resources
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\obj\Debug\01服务发现_S.csproj.GenerateResource.Cache
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\bin\Debug\01服务发现_S.exe
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\bin\Debug\01服务发现_S.pdb
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\obj\Debug\01服务发现_S.exe
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\obj\Debug\01服务发现_S.pdb
+H:\windows程序设计\实训代码\01服务发现_S\01服务发现_S\obj\Debug\01服务发现_S.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+H:\windows程序设计\实训代码\lottery\lottery\bin\Debug\lottery.exe.config
+H:\windows程序设计\实训代码\lottery\lottery\bin\Debug\lottery.exe
+H:\windows程序设计\实训代码\lottery\lottery\bin\Debug\lottery.pdb
+H:\windows程序设计\实训代码\lottery\lottery\obj\Debug\lottery.FormMain.resources
+H:\windows程序设计\实训代码\lottery\lottery\obj\Debug\lottery.Properties.Resources.resources
+H:\windows程序设计\实训代码\lottery\lottery\obj\Debug\lottery.csproj.GenerateResource.Cache
+H:\windows程序设计\实训代码\lottery\lottery\obj\Debug\lottery.exe
+H:\windows程序设计\实训代码\lottery\lottery\obj\Debug\lottery.pdb
+H:\windows程序设计\实训代码\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
